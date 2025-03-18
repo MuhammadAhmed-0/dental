@@ -19,7 +19,9 @@ The Dental Clinic Management System is a comprehensive web application designed 
 - **Form Validation**: Zod
 - **UI Components**: Radix UI, Lucide React
 
-## Installation
+## Result
+![image](https://github.com/user-attachments/assets/ecad3a64-d0db-449d-a20a-40a6344dbaa1)
+
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -27,5 +29,5 @@ The Dental Clinic Management System is a comprehensive web application designed 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/dental-clinic-management.git
-cd dental-clinic-management
+git clone https://github.com/yourusername/dental.git
+cd dental
